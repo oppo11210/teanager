@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "teanager": "^1.1.2"
+  },
+  "name": "teanager",
+  "version": "1.1.2",
+  "description": "teanager is a project aimed to assist you in accomplishing tasks using Vue.js or any other workspaces.",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oppo11210/teanager.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oppo11210/teanager/issues"
+  },
+  "homepage": "https://github.com/oppo11210/teanager#readme"
+}
