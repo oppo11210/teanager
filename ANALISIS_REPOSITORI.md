@@ -30,7 +30,7 @@ Pengguna berusia 13-19 tahun mungkin menghadapi beberapa tantangan dalam menggun
 - **Akses Teknologi:** Tidak semua remaja memiliki akses ke perangkat teknologi yang memadai untuk memanfaatkan fitur-fitur repositori.
 
 ## 6. Masukan dari Pengguna
-Berikut adalah beberapa masukan dari pengguna berusia 13-19 tahun:
+Berikut adalah beberapa masukan dari pengguna berusia 13-19 tahun: 
 - **Positif:** "Repositori ini sangat membantu saya belajar pemrograman dasar dengan cara yang menyenangkan!" - [Nama Pengguna]
 - **Negatif:** "Beberapa tantangan terlalu sulit dan saya kesulitan menyelesaikannya." - [Nama Pengguna]
 
